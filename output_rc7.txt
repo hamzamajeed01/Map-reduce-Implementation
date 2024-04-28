@@ -1,0 +1,28 @@
+"Automated Deduction in Geometry "	null
+"A+ Certification Core Hardware (Text & Lab Manual)"	null
+"Performance engineering in industry: current practices and adoption challenges"	null
+"Dude, You Can Do It! How to Build a Sweeet PC"	null
+"What Every Programmer Needs to Know about Security (Advances in information Security)"	null
+"Interpreting Kullback-Leibler divergence with the Neyman-earson lemma"	null
+"Digital Media: Transformations in Human Communication"	null
+"TOPP---the OpenMS proteomics pipeline"	null
+"Type Graphics and MacIntosh"	null
+"Adaptive Hypermedia and Adaptive Web-Based Systems"	null
+"Dependable Computing"	null
+"Calculus Early Transcendentals Single Variable"	null
+"Fast k-NN Classification Rule Using Metrics on Space-Filling Curves"	null
+"Making the Digital City: The Early Shaping of Urban Internet Space (Design & the Built Environment S.)"	null
+"Podcasting for Profit: A Proven 10-Step Plan for Generating Income Through Audio and Video Podcasting"	null
+"Federated Identity Management And Web Services Security With IBM Tivoli Security Solutions"	null
+"Start with a Digital Camera (Special Edition) (2nd Edition) (Start with a)"	null
+"Fast and Efficient Context-Aware Services (Wiley Series on Communications Networking & Distributed Systems)"	null
+"On product covering in 3-tier supply chain models: natural complete problems for W[3] and W[4]"	null
+"Inside SQL Server 2005 Tools (Microsoft Windows Server System Series)"	null
+"Introduction to Information Systems"	null
+"SUSE Linux Enterprise Server Administration (Course 3037)"	null
+"Hyperstat: Macintosh Hypermedia for Analyzing Data and Learning Statistics"	null
+"Computer Accounting with QuickBooks 2006"	null
+"Jocelyn Robert: Aucune de mes mains ne fait mal"	null
+"Microprogramming for the hardware engineer"	null
+"Microsoft Expression Web: Visual QuickStart Guide"	null
+"TCP\/IP Protocol Suite, 3 edition"	null

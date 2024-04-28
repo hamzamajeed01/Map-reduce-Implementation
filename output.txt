@@ -1,0 +1,495 @@
+Part1 output is :
+1970	4
+1980	3
+1990	11
+2000	82
+
+Part2 output is :
+1973	"Notes from industry"
+1975	"A control word model for detecting conflicts between microoperations"
+1976	"Microprogramming for the hardware engineer"
+1978	"Design team composition for high level language computer architectures"
+1982	"Review of \"Bit-Slice Microprocessor Design by John Mick and James Brick\", McGraw-Hill Book Company, 1980"
+1985	"Word Processing on Your MacIntosh"
+1987	"Type Graphics and MacIntosh"
+1991	"Tarski's World 3.0: Including the Macintosh TM Program (Center for the Study of Language and Information - Lecture Notes)"
+1993	"Hyperstat: Macintosh Hypermedia for Analyzing Data and Learning Statistics"
+1994	"At Ease With Performa , It's a Mad, Mad, Mad, Mad Mac\/Book and Disk , Operations Research: Macintosh Version (Business Statistics Series)"
+1995	"Internet and HTML Training on CD-ROM"
+1996	"Fast k-NN Classification Rule Using Metrics on Space-Filling Curves , A New Quadtree Decomposition Reconstruction Method"
+1997	"Multimedia Directory 1997 , Elsevier's Dictionary of Wild and Cultivated Plants"
+1999	"Electronic Engineer's Handbook (Core Handbook CD-ROMs)"
+2000	"Exploring Macintosh Concepts in Visually Oriented Computing & Computing Concepts for End Users , Tips and Tuning Guide for MS Flight Simulator 2000"
+2001	"Conker's Bad Fur Day (Prima's Official Strategy Guide)"
+2002	"ECDL Advanced"
+2003	"A+ Certification Core Hardware (Text & Lab Manual) , Start with a Digital Camera (Special Edition) (2nd Edition) (Start with a) , Guia Visual de Microsoft Office 2000\/ Microsoft Office 2000 Visual Guide (Guias Visuales) , KeyChamp 2.0 Macintosh Site License Package"
+2004	"Program Evaluation: Improving The Flow Of Information To The Congress , ExamInsight For MCP \/ MCSE Certification: Installing, Configuring, and Administering Microsoft Windows XP Professional Exam 70-270 (ExamInsight) , Ibook Fan Book: Smart and Beautiful to Boot (Ibook Fan Books) , GO Series: Microsoft Excel 2003 Volume 2 (Go With Microsoft Office) , Data Structures , Adaptive Multimedia Retrieval: First International Workshop, AMR 2003, Hamburg, Germany, September 15-16, 2003, Revised Selected and Invited Papers (Lecture Notes in Computer Science) , The Prentice Hall Planner for Student Success , Keno Winner: A Guide To Winning At Video Keno , Microsoft Powerpoint 2003 (Marquee Series)"
+2005	"Dude, You Can Do It! How to Build a Sweeet PC , Linspire 5.0: The No Nonsense Guide! (No Nonsense Guide! series) , Federated Identity Management And Web Services Security With IBM Tivoli Security Solutions , Open Process Frameworks: Patterns for the Adaptive e-Enterprise (Practitioners) , ASIS&T Thesaurus of Information Science, Technology, And Librarianship (Asist Monograph Series) , Call of Duty 2: Big Red One(tm) Official Strategy Guide (Official Strategy Guides) , Special Edition Using Adobe Creative Suite 2 (Special Edition Using) , Computer Models of Musical Creativity , Microsoft Word 2003 Advanced , Gungrave: 2006 Wall Calendar , Essentials for Design Adobe Illustrator CS 2 - Level 1 (2nd Edition) (Essentials for Design) , The Game Producer's Handbook , Visual Basic 2005 Demystified, 1 edition , Oracle 10g PL\/SQL: Guia de Consulta R\u00e1pida"
+2006	"Automated Deduction in Geometry , What Every Programmer Needs to Know about Security (Advances in information Security) , Interpreting Kullback-Leibler divergence with the Neyman-earson lemma , Digital Media: Transformations in Human Communication , Adaptive Hypermedia and Adaptive Web-Based Systems , Approximating fluid schedules in crossbar packet-switches and Banyan networks , Inside Microsoft Dynamics AX 4.0 , Wiley Plus\/Web CT Stand-alone to accompany Java Concepts (Wiley Plus Products) , Modeling methodology b: distributed simulation and the high level architecture , Beginning Ruby on Rails (Wrox Beginning Guides) , SUSE Linux Enterprise Server Administration (Course 3037) , An Integrative Modelling Approach for Simulation and Analysis of Adaptive Agents , Computer Accounting with QuickBooks 2006 , Class-specific feature polynomial classifier for pattern classification and its application to handwritten numeral recognition , F.E.A.R.: First Encounter Assault Recon (Prima Official Game Guide) , Effects of reward expectancy on sequential eye movements in monkeys , Computer Concepts Illustrated Complete, Sixth Edition (Illustrated (Thompson Learning)) , Windows Vista All-in-One Desk Reference For Dummies (For Dummies (Computer\/Tech)) , DV Filmmaking: From Start to Finish (O'Reilly Digital Studio) , Hands-On Guide to Video Blogging and Podcasting: Emerging Media Tools for Business Communication (Hands-on Guide) , Mage Knight(tm): Apocalypse Official Strategy Guide (Official Strategy Guides) , The Effect of Faults on Network Expansion , Mesoscopic simulation of Ostwald ripening , Gurus, Hired Guns, and Warm Bodies: Itinerant Experts in a Knowledge Economy , Selected Areas in Cryptography: 12th International Workshop, SAC 2005, Kingston, ON, Canada, August 11-12, 2005, Revised Selected Papers (Lecture Notes in Computer Science) , Real World Aperture (Real World) , Making Projects Critical (Management, Work and Organisations) , Three-Level Caching for Efficient Query Processing in Large Web Search Engines , Creative Code: \u00c4sthetik und Programmierung am MIT Media Lab , On an initial transient deletion rule with rigorous theoretical support , MICAI 2006: Advances in Artificial Intelligence: 5th Mexican International Conference on Artificial IntelligenceApizaco, Mexico, November 13-17, 2006Proceedings (Lecture Notes in Computer Science) , Special issue: Dialog systems for health communications"
+2007	"Performance engineering in industry: current practices and adoption challenges , TOPP---the OpenMS proteomics pipeline , Webbots, Spiders, and Screen Scrapers , Podcasting for Profit: A Proven 10-Step Plan for Generating Income Through Audio and Video Podcasting , Introduction to Information Systems , A method to compute distance between two categorical values of same attribute in unsupervised learning for categorical data set , Database Modeling in Biology: Practices and Challenges , The Internet: A Critical Introduction , Java for Everyone , CompTIA A+ Exam Cram (Exams 220-602, 220-603, 220-604) (Exam Cram)"
+
+Part3 output is :
+"A. Krzyzak"	["E. Skubalska-Rafajtowicz"]
+"Ahmed Hassan"	["Parminder Flora"]
+"Alexander Gelbukh"	["Carlos Alberto Reyes-Garcia "]
+"Alice Redmond-neal"	["Marjorie M. K. Hlava"]
+"Allan Hunkin"	[]
+"Amir Ahmad"	["Lipika Dey "]
+"Amitabh Chaudhary"	["Christian Scheideler ","Amitabha Bagchi","David Eppstein","Ankur Bhargava"]
+"Amitabha Bagchi"	["Christian Scheideler ","Amitabh Chaudhary","David Eppstein","Ankur Bhargava"]
+"Andreas N\u00fcrnberger"	["Marcin Detyniecki "]
+"Anita Kesavan"	["Neil Daswani"]
+"Ankur Bhargava"	["Christian Scheideler ","Amitabh Chaudhary","Amitabha Bagchi","David Eppstein"]
+"Arthur Greef"	["Hans J. Skovgaard","Palle Agermark","Lars Dragheim Olsen","Michael Fruergaard Pontoppidan"]
+"Axel Bucker"	[]
+"Barry Smyth"	["Helen Ashman","Vincent Wade"]
+"Bart Preneel"	["Bart Preneel "]
+"Ben Long"	["Ben Long "]
+"Brenden Munnelly"	["Paul Holden "]
+"Bruce Shriver"	["Bruce Shriver ","Ted Lewis"]
+"Carla Rose"	["Carla Rose "]
+"Carlito Vicencio"	["Darrel Creacy"]
+"Carlos Alberto Reyes-Garcia"	["Alexander Gelbukh","Carlos Alberto Reyes-Garcia "]
+"Catholijn M. Jonker"	["Jan Treur","Tibor Bosse"]
+"Cay S. Horstmann"	["Cay S. Horstmann "]
+"Celso H. Poderoso de Oliveira"	["Celso H. Poderoso de Oliveira "]
+"Charles J. Brooks"	["Charles J. Brooks "]
+"Charles S. Wetherell"	["James R. McGraw","Charles S. Wetherell "," Jr.","Lyle A. Cox"]
+"Cheng-Lin Liu"	[" Hiroshi Sako"]
+"Christian Scheideler"	["Christian Scheideler ","Amitabha Bagchi","Amitabh Chaudhary","Ankur Bhargava","David Eppstein"]
+"Clemens Gr\u00f6pl"	["Nico Pfeifer","Marc Sturm","Knut Reinert","Eva Lange","Oliver Kohlbacher","Ole Schulz-Trieglaff"]
+"Constantine Caramanis"	["Vahid Tarokh","Michael Rosenblum","Michel X. Goemans"]
+"Daeyeol Lee"	["Jeong-woo Sohn","Daeyeol Lee "]
+"Damian Hodgson"	["Svetlana Cicmil "]
+"Damien Stolarz"	["Damien Stolarz ","Lionel Felix"]
+"Dan Irish"	["Dan Irish "]
+"Dan Oja"	["June Jamrich Parsons","Dan Oja "]
+"Darrel Creacy"	["Carlito Vicencio"]
+"David A. Marca"	[]
+"David Cope"	["David Cope "]
+"David Eppstein"	["Christian Scheideler ","Amitabh Chaudhary","Amitabha Bagchi","Ankur Bhargava"]
+"David J. Horntrop"	["David J. Horntrop "]
+"David M. Lane"	[]
+"Dean Bagley"	["Dean Bagley "]
+"Deborah Timmons"	["Deborah Timmons "]
+"Denise Seguin"	["Nita Hewitt Rutkosky","Denise Seguin "]
+"Derrick Story"	["Derrick Story "]
+"Donald Christiansen"	[]
+"Dongming Wang"	["Hoon Hong"]
+"Donna Ulmer"	[]
+"E. Skubalska-Rafajtowicz"	["A. Krzyzak"]
+"Eric Grebler"	[]
+"Eva Lange"	["Nico Pfeifer","Clemens Gr\u00f6pl","Marc Sturm","Knut Reinert","Oliver Kohlbacher","Ole Schulz-Trieglaff"]
+"Gene Orwell"	[]
+"Gideon Kunda"	["Stephen R. Barley","Gideon Kunda "]
+"Hans J. Skovgaard"	["Arthur Greef","Palle Agermark","Lars Dragheim Olsen","Michael Fruergaard Pontoppidan"]
+"Helen Ashman"	["Barry Smyth","Vincent Wade"]
+"Hernan P. Awad"	["Peter W. Glynn "]
+"Hiroshi Sako"	[" Hiroshi Sako","Cheng-Lin Liu"]
+"Hoon Hong"	["Dongming Wang"]
+"Ian David Aronson"	[]
+"J. Knipe"	["X. Li"]
+"Jake Chen"	["Jake Chen ","Zongmin Ma"]
+"James R. McGraw"	["Charles S. Wetherell "," Jr.","Lyle A. Cox"]
+"Jan Treur"	["Tibor Bosse","Catholijn M. Jonker"]
+"Jason Eckert"	[]
+"Jeff Kent"	["Jeff Kent "]
+"Jeong-woo Sohn"	["Daeyeol Lee "]
+"John Blaint"	[]
+"John Copas"	["Shinto Eguchi"]
+"John Etchemendy"	["Jon Barwise","John Etchemendy "]
+"John Maeda"	["Red Burns "]
+"John Odam"	[]
+"John Preston"	["Shelley Gaskin","Sally Preston "]
+"John R. Mick"	[]
+"Jon Barwise"	["John Etchemendy "]
+"Jose Pedro Llamazares"	[]
+"Jr."	["James R. McGraw","Charles S. Wetherell "," Jr.","Lyle A. Cox"]
+"June Jamrich Parsons"	["Dan Oja "]
+"Ken Abernethy"	["Ken Abernethy "]
+"Knut Reinert"	["Nico Pfeifer","Clemens Gr\u00f6pl","Marc Sturm","Eva Lange","Oliver Kohlbacher","Ole Schulz-Trieglaff"]
+"Korinna Patelis"	["Korinna Patelis "]
+"Lars Dragheim Olsen"	["Hans J. Skovgaard","Arthur Greef","Palle Agermark","Michael Fruergaard Pontoppidan"]
+"Lee Humphreys"	["Paul Messaris"]
+"Lionel Felix"	["Damien Stolarz "]
+"Lipika Dey"	["Amir Ahmad","Lipika Dey "]
+"Lyle A. Cox"	["James R. McGraw","Charles S. Wetherell "," Jr."]
+"Marc Sturm"	["Nico Pfeifer","Clemens Gr\u00f6pl","Knut Reinert","Eva Lange","Oliver Kohlbacher","Ole Schulz-Trieglaff"]
+"Marcin Detyniecki"	["Andreas N\u00fcrnberger","Marcin Detyniecki "]
+"Marjorie M. K. Hlava"	["Alice Redmond-neal"]
+"Michael Cloran"	["Michael Cloran "]
+"Michael Fruergaard Pontoppidan"	["Hans J. Skovgaard","Arthur Greef","Palle Agermark","Lars Dragheim Olsen"]
+"Michael Rosenblum"	["Vahid Tarokh","Michel X. Goemans","Constantine Caramanis"]
+"Michael Schrenk"	["Michael Shrenk"]
+"Michael Shrenk"	["Michael Schrenk"]
+"Michael Smick"	[]
+"Michael T. Goodrich"	["Michael T. Goodrich "]
+"Michel X. Goemans"	["Vahid Tarokh","Michael Rosenblum","Constantine Caramanis"]
+"Neil Daswani"	["Anita Kesavan"]
+"Nico Pfeifer"	["Clemens Gr\u00f6pl","Marc Sturm","Knut Reinert","Eva Lange","Oliver Kohlbacher","Ole Schulz-Trieglaff"]
+"Nightow Yoshiro"	["Nightow Yoshiro "]
+"Nita Hewitt Rutkosky"	["Denise Seguin "]
+"Ole Schulz-Trieglaff"	["Nico Pfeifer","Clemens Gr\u00f6pl","Marc Sturm","Knut Reinert","Eva Lange","Oliver Kohlbacher"]
+"Oliver Kohlbacher"	["Nico Pfeifer","Clemens Gr\u00f6pl","Marc Sturm","Knut Reinert","Eva Lange","Ole Schulz-Trieglaff"]
+"Palle Agermark"	["Hans J. Skovgaard","Arthur Greef","Lars Dragheim Olsen","Michael Fruergaard Pontoppidan"]
+"Pamela W. Adams"	["Pamela W. Adams "]
+"Parminder Flora"	["Ahmed Hassan"]
+"Paul Holden"	["Brenden Munnelly","Paul Holden "]
+"Paul Messaris"	["Lee Humphreys"]
+"Peter W. Glynn"	["Peter W. Glynn ","Hernan P. Awad"]
+"R. Kelly Rainer"	[]
+"Red Burns"	["Red Burns ","John Maeda"]
+"Ron Dulin"	["Ron Dulin "]
+"Rudolph Langer"	["Rudolph Langer "]
+"Sally Preston"	["John Preston","Shelley Gaskin","Sally Preston "]
+"Shelley Gaskin"	["John Preston","Sally Preston "]
+"Shinto Eguchi"	["John Copas"]
+"Stanley Habib"	[]
+"Stephen R. Barley"	["Gideon Kunda "]
+"Steve Holzner"	[]
+"Svetlana Cicmil"	["Damian Hodgson","Svetlana Cicmil "]
+"Ted Lewis"	["Bruce Shriver "]
+"Tibor Bosse"	["Jan Treur","Catholijn M. Jonker"]
+"Tom Collins"	["Tom Collins "]
+"Torsten Suel"	["Torsten Suel ","Xiaohui Long"]
+"Vahid Tarokh"	["Michael Rosenblum","Constantine Caramanis","Michel X. Goemans"]
+"Vincent Wade"	["Barry Smyth","Helen Ashman"]
+"W. E. Clason"	["W. E. Clason "]
+"Wayne L. Winston"	["Wayne L. Winston "]
+"William J. Tracz"	["William J. Tracz "]
+"Woody Leonhard"	["Woody Leonhard "]
+"X. Li"	["J. Knipe"]
+"Xiaohui Long"	["Torsten Suel "]
+"Zongmin Ma"	["Jake Chen "]
+
+Part4 output is :
+1973	1.0
+1975	1.0
+1976	1.0
+1978	1.0
+1982	1.0
+1985	1.0
+1987	1.0
+1991	1.0
+1993	1.0
+1994	1.5
+1995	1.0
+1996	1.0
+1997	1.0
+1999	1.0
+2000	1.0
+2001	1.0
+2002	1.0
+2003	1.3333333333333333
+2004	1.8
+2005	2.5714285714285716
+2006	4.5
+2007	1.375
+
+Part5 output is :
+"Author(s) with the maximum number of papers:"	"Hoon Hong"
+"Author(s) with the maximum number of papers:"	"Dongming Wang"
+"Author(s) with the maximum number of papers:"	"Charles J. Brooks"
+"Author(s) with the maximum number of papers:"	"Ahmed Hassan"
+"Author(s) with the maximum number of papers:"	"Parminder Flora"
+"Author(s) with the maximum number of papers:"	"Darrel Creacy"
+"Author(s) with the maximum number of papers:"	"Carlito Vicencio"
+"Author(s) with the maximum number of papers:"	"Neil Daswani"
+"Author(s) with the maximum number of papers:"	"Anita Kesavan"
+"Author(s) with the maximum number of papers:"	"Shinto Eguchi"
+"Author(s) with the maximum number of papers:"	"John Copas"
+"Author(s) with the maximum number of papers:"	"Lee Humphreys"
+"Author(s) with the maximum number of papers:"	"Paul Messaris"
+"Author(s) with the maximum number of papers:"	"Oliver Kohlbacher"
+"Author(s) with the maximum number of papers:"	"Knut Reinert"
+"Author(s) with the maximum number of papers:"	"Clemens Gr\u00f6pl"
+"Author(s) with the maximum number of papers:"	"Eva Lange"
+"Author(s) with the maximum number of papers:"	"Nico Pfeifer"
+"Author(s) with the maximum number of papers:"	"Ole Schulz-Trieglaff"
+"Author(s) with the maximum number of papers:"	"Marc Sturm"
+"Author(s) with the maximum number of papers:"	"John Blaint"
+"Author(s) with the maximum number of papers:"	"Vincent Wade"
+"Author(s) with the maximum number of papers:"	"Helen Ashman"
+"Author(s) with the maximum number of papers:"	"Barry Smyth"
+"Author(s) with the maximum number of papers:"	"Michael Schrenk"
+"Author(s) with the maximum number of papers:"	"Michael Shrenk"
+"Author(s) with the maximum number of papers:"	"E. Skubalska-Rafajtowicz"
+"Author(s) with the maximum number of papers:"	"A. Krzyzak"
+"Author(s) with the maximum number of papers:"	"Eric Grebler"
+"Author(s) with the maximum number of papers:"	"Allan Hunkin"
+"Author(s) with the maximum number of papers:"	"Michael Rosenblum"
+"Author(s) with the maximum number of papers:"	"Constantine Caramanis"
+"Author(s) with the maximum number of papers:"	"Michel X. Goemans"
+"Author(s) with the maximum number of papers:"	"Vahid Tarokh"
+"Author(s) with the maximum number of papers:"	"Axel Bucker"
+"Author(s) with the maximum number of papers:"	"John Odam"
+"Author(s) with the maximum number of papers:"	"David A. Marca"
+"Author(s) with the maximum number of papers:"	"Alice Redmond-neal"
+"Author(s) with the maximum number of papers:"	"Marjorie M. K. Hlava"
+"Author(s) with the maximum number of papers:"	"Donald Christiansen"
+"Author(s) with the maximum number of papers:"	"Arthur Greef"
+"Author(s) with the maximum number of papers:"	"Michael Fruergaard Pontoppidan"
+"Author(s) with the maximum number of papers:"	"Lars Dragheim Olsen"
+"Author(s) with the maximum number of papers:"	"Palle Agermark"
+"Author(s) with the maximum number of papers:"	"Hans J. Skovgaard"
+"Author(s) with the maximum number of papers:"	"Cay S. Horstmann"
+"Author(s) with the maximum number of papers:"	"Steve Holzner"
+"Author(s) with the maximum number of papers:"	"R. Kelly Rainer"
+"Author(s) with the maximum number of papers:"	"Jason Eckert"
+"Author(s) with the maximum number of papers:"	"David M. Lane"
+"Author(s) with the maximum number of papers:"	"Tibor Bosse"
+"Author(s) with the maximum number of papers:"	"Catholijn M. Jonker"
+"Author(s) with the maximum number of papers:"	"Jan Treur"
+"Author(s) with the maximum number of papers:"	"Stanley Habib"
+"Author(s) with the maximum number of papers:"	"J. Knipe"
+"Author(s) with the maximum number of papers:"	"X. Li"
+"Author(s) with the maximum number of papers:"	"Donna Ulmer"
+"Author(s) with the maximum number of papers:"	"John R. Mick"
+"Author(s) with the maximum number of papers:"	"Michael Smick"
+"Author(s) with the maximum number of papers:"	"Gene Orwell"
+"Author(s) with the maximum number of papers:"	"Jose Pedro Llamazares"
+"Author(s) with the maximum number of papers:"	"Ted Lewis"
+"Author(s) with the maximum number of papers:"	"Bruce Shriver"
+"Author(s) with the maximum number of papers:"	"Ken Abernethy"
+"Author(s) with the maximum number of papers:"	"Michael Cloran"
+"Author(s) with the maximum number of papers:"	"Rudolph Langer"
+"Author(s) with the maximum number of papers:"	"Cheng-Lin Liu"
+"Author(s) with the maximum number of papers:"	"Hiroshi Sako"
+"Author(s) with the maximum number of papers:"	"Ron Dulin"
+"Author(s) with the maximum number of papers:"	"Jeong-woo Sohn"
+"Author(s) with the maximum number of papers:"	"Daeyeol Lee"
+"Author(s) with the maximum number of papers:"	"Amir Ahmad"
+"Author(s) with the maximum number of papers:"	"Lipika Dey"
+"Author(s) with the maximum number of papers:"	"Deborah Timmons"
+"Author(s) with the maximum number of papers:"	"David Cope"
+"Author(s) with the maximum number of papers:"	"June Jamrich Parsons"
+"Author(s) with the maximum number of papers:"	"Dan Oja"
+"Author(s) with the maximum number of papers:"	"Woody Leonhard"
+"Author(s) with the maximum number of papers:"	"William J. Tracz"
+"Author(s) with the maximum number of papers:"	"Ian David Aronson"
+"Author(s) with the maximum number of papers:"	"Derrick Story"
+"Author(s) with the maximum number of papers:"	"Shelley Gaskin"
+"Author(s) with the maximum number of papers:"	"John Preston"
+"Author(s) with the maximum number of papers:"	"Sally Preston"
+"Author(s) with the maximum number of papers:"	"Michael T. Goodrich"
+"Author(s) with the maximum number of papers:"	"Lionel Felix"
+"Author(s) with the maximum number of papers:"	"Damien Stolarz"
+"Author(s) with the maximum number of papers:"	"Brenden Munnelly"
+"Author(s) with the maximum number of papers:"	"Paul Holden"
+"Author(s) with the maximum number of papers:"	"Amitabha Bagchi"
+"Author(s) with the maximum number of papers:"	"Ankur Bhargava"
+"Author(s) with the maximum number of papers:"	"Amitabh Chaudhary"
+"Author(s) with the maximum number of papers:"	"David Eppstein"
+"Author(s) with the maximum number of papers:"	"Christian Scheideler"
+"Author(s) with the maximum number of papers:"	"Zongmin Ma"
+"Author(s) with the maximum number of papers:"	"Jake Chen"
+"Author(s) with the maximum number of papers:"	"Pamela W. Adams"
+"Author(s) with the maximum number of papers:"	"Andreas N\u00fcrnberger"
+"Author(s) with the maximum number of papers:"	"Marcin Detyniecki"
+"Author(s) with the maximum number of papers:"	"David J. Horntrop"
+"Author(s) with the maximum number of papers:"	"Nightow Yoshiro"
+"Author(s) with the maximum number of papers:"	"Stephen R. Barley"
+"Author(s) with the maximum number of papers:"	"Gideon Kunda"
+"Author(s) with the maximum number of papers:"	"Bart Preneel"
+"Author(s) with the maximum number of papers:"	"Lyle A. Cox"
+"Author(s) with the maximum number of papers:"	"Jr."
+"Author(s) with the maximum number of papers:"	"James R. McGraw"
+"Author(s) with the maximum number of papers:"	"Charles S. Wetherell"
+"Author(s) with the maximum number of papers:"	"Tom Collins"
+"Author(s) with the maximum number of papers:"	"Ben Long"
+"Author(s) with the maximum number of papers:"	"Damian Hodgson"
+"Author(s) with the maximum number of papers:"	"Svetlana Cicmil"
+"Author(s) with the maximum number of papers:"	"Korinna Patelis"
+"Author(s) with the maximum number of papers:"	"Carla Rose"
+"Author(s) with the maximum number of papers:"	"Cay S. Horstmann"
+"Author(s) with the maximum number of papers:"	"Xiaohui Long"
+"Author(s) with the maximum number of papers:"	"Torsten Suel"
+"Author(s) with the maximum number of papers:"	"Dean Bagley"
+"Author(s) with the maximum number of papers:"	"Wayne L. Winston"
+"Author(s) with the maximum number of papers:"	"John Maeda"
+"Author(s) with the maximum number of papers:"	"Red Burns"
+"Author(s) with the maximum number of papers:"	"Dan Irish"
+"Author(s) with the maximum number of papers:"	"Jeff Kent"
+"Author(s) with the maximum number of papers:"	"Celso H. Poderoso de Oliveira"
+"Author(s) with the maximum number of papers:"	"Charles J. Brooks"
+"Author(s) with the maximum number of papers:"	"Hernan P. Awad"
+"Author(s) with the maximum number of papers:"	"Peter W. Glynn"
+"Author(s) with the maximum number of papers:"	"Nita Hewitt Rutkosky"
+"Author(s) with the maximum number of papers:"	"Denise Seguin"
+"Author(s) with the maximum number of papers:"	"Alexander Gelbukh"
+"Author(s) with the maximum number of papers:"	"Carlos Alberto Reyes-Garcia"
+"Author(s) with the maximum number of papers:"	"Jon Barwise"
+"Author(s) with the maximum number of papers:"	"John Etchemendy"
+"Author(s) with the maximum number of papers:"	"W. E. Clason"
+
+Part6 output is :
+1973	"Stanley Habib"
+1975	"Bruce Shriver"
+1975	"Ted Lewis"
+1976	"John R. Mick"
+1978	"Charles S. Wetherell"
+1978	"James R. McGraw"
+1978	"Jr."
+1978	"Lyle A. Cox"
+1982	"William J. Tracz"
+1985	"Rudolph Langer"
+1987	"John Blaint"
+1991	"John Etchemendy"
+1991	"Jon Barwise"
+1993	"David M. Lane"
+1994	"Carla Rose"
+1994	"Gene Orwell"
+1994	"Wayne L. Winston"
+1995	""
+1996	"A. Krzyzak"
+1996	"E. Skubalska-Rafajtowicz"
+1996	"J. Knipe"
+1996	"X. Li"
+1997	""
+1997	"W. E. Clason"
+1999	"Donald Christiansen"
+2000	""
+2000	"Ken Abernethy"
+2001	""
+2002	"Brenden Munnelly"
+2002	"Paul Holden"
+2003	"Charles J. Brooks"
+2003	"John Odam"
+2003	"Jose Pedro Llamazares"
+2003	"Michael Cloran"
+2004	"Andreas N\u00fcrnberger"
+2004	"Deborah Timmons"
+2004	"Denise Seguin"
+2004	"Derrick Story"
+2004	"John Preston"
+2004	"Marcin Detyniecki"
+2004	"Michael T. Goodrich"
+2004	"Nita Hewitt Rutkosky"
+2004	"Sally Preston"
+2004	"Shelley Gaskin"
+2004	"Tom Collins"
+2005	""
+2005	"Alice Redmond-neal"
+2005	"Axel Bucker"
+2005	"Carlito Vicencio"
+2005	"Celso H. Poderoso de Oliveira"
+2005	"Dan Irish"
+2005	"Darrel Creacy"
+2005	"David A. Marca"
+2005	"David Cope"
+2005	"Dean Bagley"
+2005	"Eric Grebler"
+2005	"Jeff Kent"
+2005	"Marjorie M. K. Hlava"
+2005	"Michael Smick"
+2005	"Nightow Yoshiro"
+2005	"Pamela W. Adams"
+2006	"Alexander Gelbukh"
+2006	"Amitabh Chaudhary"
+2006	"Amitabha Bagchi"
+2006	"Anita Kesavan"
+2006	"Ankur Bhargava"
+2006	"Arthur Greef"
+2006	"Barry Smyth"
+2006	"Bart Preneel"
+2006	"Ben Long"
+2006	"Carlos Alberto Reyes-Garcia"
+2006	"Catholijn M. Jonker"
+2006	"Cay S. Horstmann"
+2006	"Cheng-Lin Liu"
+2006	"Christian Scheideler"
+2006	"Constantine Caramanis"
+2006	"Daeyeol Lee"
+2006	"Damian Hodgson"
+2006	"Damien Stolarz"
+2006	"Dan Oja"
+2006	"David Eppstein"
+2006	"David J. Horntrop"
+2006	"Dongming Wang"
+2006	"Donna Ulmer"
+2006	"Gideon Kunda"
+2006	"Hans J. Skovgaard"
+2006	"Helen Ashman"
+2006	"Hernan P. Awad"
+2006	"Hiroshi Sako"
+2006	"Hoon Hong"
+2006	"Ian David Aronson"
+2006	"Jan Treur"
+2006	"Jason Eckert"
+2006	"Jeong-woo Sohn"
+2006	"John Copas"
+2006	"John Maeda"
+2006	"June Jamrich Parsons"
+2006	"Lars Dragheim Olsen"
+2006	"Lee Humphreys"
+2006	"Lionel Felix"
+2006	"Michael Fruergaard Pontoppidan"
+2006	"Michael Rosenblum"
+2006	"Michel X. Goemans"
+2006	"Neil Daswani"
+2006	"Palle Agermark"
+2006	"Paul Messaris"
+2006	"Peter W. Glynn"
+2006	"Red Burns"
+2006	"Ron Dulin"
+2006	"Shinto Eguchi"
+2006	"Stephen R. Barley"
+2006	"Steve Holzner"
+2006	"Svetlana Cicmil"
+2006	"Tibor Bosse"
+2006	"Torsten Suel"
+2006	"Vahid Tarokh"
+2006	"Vincent Wade"
+2006	"Woody Leonhard"
+2006	"Xiaohui Long"
+2007	"Ahmed Hassan"
+2007	"Allan Hunkin"
+2007	"Amir Ahmad"
+2007	"Cay S. Horstmann"
+2007	"Charles J. Brooks"
+2007	"Clemens Gr\u00f6pl"
+2007	"Eva Lange"
+2007	"Jake Chen"
+2007	"Knut Reinert"
+2007	"Korinna Patelis"
+2007	"Lipika Dey"
+2007	"Marc Sturm"
+2007	"Michael Schrenk"
+2007	"Michael Shrenk"
+2007	"Nico Pfeifer"
+2007	"Ole Schulz-Trieglaff"
+2007	"Oliver Kohlbacher"
+2007	"Parminder Flora"
+2007	"R. Kelly Rainer"
+2007	"Zongmin Ma"
+
+Part7 output is :
+"Automated Deduction in Geometry "	null
+"A+ Certification Core Hardware (Text & Lab Manual)"	null
+"Performance engineering in industry: current practices and adoption challenges"	null
+"Dude, You Can Do It! How to Build a Sweeet PC"	null
+"What Every Programmer Needs to Know about Security (Advances in information Security)"	null
+"Interpreting Kullback-Leibler divergence with the Neyman-earson lemma"	null
+"Digital Media: Transformations in Human Communication"	null
+"TOPP---the OpenMS proteomics pipeline"	null
+"Type Graphics and MacIntosh"	null
+"Adaptive Hypermedia and Adaptive Web-Based Systems"	null
+"Dependable Computing"	null
+"Calculus Early Transcendentals Single Variable"	null
+"Fast k-NN Classification Rule Using Metrics on Space-Filling Curves"	null
+"Making the Digital City: The Early Shaping of Urban Internet Space (Design & the Built Environment S.)"	null
+"Podcasting for Profit: A Proven 10-Step Plan for Generating Income Through Audio and Video Podcasting"	null
+"Federated Identity Management And Web Services Security With IBM Tivoli Security Solutions"	null
+"Start with a Digital Camera (Special Edition) (2nd Edition) (Start with a)"	null
+"Fast and Efficient Context-Aware Services (Wiley Series on Communications Networking & Distributed Systems)"	null
+"On product covering in 3-tier supply chain models: natural complete problems for W[3] and W[4]"	null
+"Inside SQL Server 2005 Tools (Microsoft Windows Server System Series)"	null
+"Introduction to Information Systems"	null
+"SUSE Linux Enterprise Server Administration (Course 3037)"	null
+"Hyperstat: Macintosh Hypermedia for Analyzing Data and Learning Statistics"	null
+"Computer Accounting with QuickBooks 2006"	null
+"Jocelyn Robert: Aucune de mes mains ne fait mal"	null
+"Microprogramming for the hardware engineer"	null
+"Microsoft Expression Web: Visual QuickStart Guide"	null
+"TCP\/IP Protocol Suite, 3 edition"	null
+
